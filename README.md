@@ -3,6 +3,7 @@ This projects stands for diabetes neuropathy diagnosis using machine learning al
 
 # The prototype
 ![neuropdi](neuropatiadiabetica.PNG)
+
 Image by Tincopa (2019)
 
 # Reference
